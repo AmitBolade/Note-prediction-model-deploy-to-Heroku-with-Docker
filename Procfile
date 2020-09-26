@@ -1,1 +1,1 @@
-web: gunicorn FlasggerApi:app
+web: sh setup.sh && streamlit run app.py
