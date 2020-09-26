@@ -1,1 +1,1 @@
-web: gunicorn FlasggerApi: app
+web: gunicorn FlasggerApi:app
